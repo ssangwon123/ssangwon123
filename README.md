@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+안녕하세요 오픈소스sw를 수강하는 22311981 진상원입니다.
 <!--
 **ssangwon123/ssangwon123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
